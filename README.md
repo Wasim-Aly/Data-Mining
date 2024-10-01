@@ -1,15 +1,17 @@
 Data Mining Project
-Project Description
+
+Project Description:
 Provide a brief overview of the project. Explain the objectives, challenges, and how this project aims to address them. You can also mention the key techniques or algorithms used in the data mining process.
 
 Table of Contents (Optional)
-Installation
-Usage
-Data Sources
-Code Structure
-Results
-Contribution
-License
+*Installation
+*Usage
+*Data Sources
+*Code Structure
+*Results
+*Contribution
+*License
+
 Installation and Setup
 Prerequisites:
 List the required software, libraries, or dependencies needed to run the project. Include versions if necessary.
